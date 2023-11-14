@@ -16,6 +16,8 @@
 		{ pathname: '/', title: 'Course Companion' },
 		{ pathname: '/course', title: 'Course' },
 		{ pathname: '/settings', title: 'Settings' },
+		{ pathname: '/login', title: 'Login' },
+		{ pathname: '/signup', title: 'Sign up' },
 		{ pathname: '/test', title: 'Test' }
 	];
 

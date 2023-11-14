@@ -1,0 +1,19 @@
+{
+  "id": "mig_cl9ol0ar00th1dr6be30",
+  "parentID": "mig_cl9okmir00th1dr6be20",
+  "checksum": "1:cdca9f53348ea8f6ce775ca2728b02e71f1a3ca7b3e38bb0cd91e51fdb7467c1",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "courses",
+          "type": "link",
+          "link": {
+            "table": "Course"
+          }
+        },
+        "table": "Users"
+      }
+    }
+  ]
+}

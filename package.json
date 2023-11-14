@@ -33,6 +33,7 @@
 	"type": "module",
 	"dependencies": {
 		"@fontsource/fira-sans": "^5.0.17",
+		"@xata.io/client": "^0.27.0",
 		"bits-ui": "^0.9.4",
 		"clsx": "^2.0.0",
 		"lucide-svelte": "^0.292.0",

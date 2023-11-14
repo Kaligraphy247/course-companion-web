@@ -2,15 +2,12 @@
 	import FloatingWindow from '$lib/components/FloatingWindow.svelte';
 	import { Files, Facebook } from 'lucide-svelte';
 	import { onMount } from 'svelte';
+	import LoginPrompt from '$lib/components/LoginPrompt.svelte';
 
-
-
-
-	onMount(async () => {
-
-	})
+	onMount(async () => {});
 </script>
 
+<!-- 
 <FloatingWindow elementId="elementOne" title="Resources">
 	<svelte:fragment slot="icon">
 		<Facebook class="w-6 h-6 mx-auto" />
@@ -40,7 +37,7 @@
 			nemo.
 		</div>
 	</svelte:fragment>
-</FloatingWindow>
+</FloatingWindow> -->
 <div>
-
+	<LoginPrompt />
 </div>

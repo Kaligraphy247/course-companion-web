@@ -1,0 +1,16 @@
+{
+  "id": "mig_cl9oq333cio5uv12ro80",
+  "parentID": "mig_cl9ol9ql3lh3v7vbmm8g",
+  "checksum": "1:075d134f4469443a185be07a2074362d296a1fac52d94582f9d27f370e944e23",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "files",
+          "type": "file[]"
+        },
+        "table": "Course"
+      }
+    }
+  ]
+}

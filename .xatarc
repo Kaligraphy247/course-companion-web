@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Course-Companion-t0b82o.eu-central-1.xata.sh/db/main",
+  "codegen": {
+    "output": "src/lib/xata.ts"
+  }
+}
